@@ -1,0 +1,7 @@
+D:\CFJIEW\Lab08\Lab08\bin\Debug\Lab08.exe.config
+D:\CFJIEW\Lab08\Lab08\bin\Debug\Lab08.exe
+D:\CFJIEW\Lab08\Lab08\bin\Debug\Lab08.pdb
+D:\CFJIEW\Lab08\Lab08\obj\Debug\Lab08.csproj.AssemblyReference.cache
+D:\CFJIEW\Lab08\Lab08\obj\Debug\Lab08.csproj.CoreCompileInputs.cache
+D:\CFJIEW\Lab08\Lab08\obj\Debug\Lab08.exe
+D:\CFJIEW\Lab08\Lab08\obj\Debug\Lab08.pdb
