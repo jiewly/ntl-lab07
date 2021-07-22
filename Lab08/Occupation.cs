@@ -9,6 +9,6 @@ namespace Lab08
    public interface Occupation
     {
         string Whoami();
-        double GetTex();
+        double GetTax();
     }
 }

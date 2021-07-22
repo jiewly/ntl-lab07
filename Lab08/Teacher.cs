@@ -20,7 +20,7 @@ namespace Lab08
         {
             return this.Name + " is a Teacher";
         }
-        public double GetTex()
+        public double GetTax()
         {
             return this.Salary - (this.Salary * 0.09);
         }

@@ -13,12 +13,12 @@ namespace Lab08
         {
             var Doc = new Doctor("tle", 1250000);
             Console.WriteLine(Doc.Whoami());
-            Console.WriteLine(Doc.GetTex().ToString(" Tax pay" + "#,##0"));
+            Console.WriteLine(Doc.GetTax().ToString(" Tax pay" + "#,##0"));
             Console.WriteLine("----------------------");
 
             var Tec = new Teacher("toey", 15000);
             Console.WriteLine(Tec.Whoami());
-            Console.WriteLine(Tec.GetTex().ToString(" Tax pay" + "#,##0"));
+            Console.WriteLine(Tec.GetTax().ToString(" Tax pay" + "#,##0"));
             Console.ReadLine();
         }
     }
